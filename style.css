@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.carousel-inne {
+    height: 423px;
+}
+
+.item,
+img {
+    height: 420px !important;
+    width: 300px !important;
+    
+}
+
+.about {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    color: rgb(20, 20, 19);
+}
+.doctorinfo{
+    text-align: center;
+    font-style: italic ;
+}
+.testimonial_inner{
+    height: 12px;
+    margin: auto;
+}
+.card {
+    height: 50px;
+    width: 50px;
+}
+
+
